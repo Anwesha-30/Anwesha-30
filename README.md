@@ -33,8 +33,8 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anindya-mukhopadhy/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anindya_iitm/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwesha-samaddar-472040353/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz.anw_esha/)  
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anwesha-30)
 
 ---
@@ -56,5 +56,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=anindya-mukhopadhyay&icon=5&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating UPI
-  (anindyamukhopadhyay69@ibl)
+
