@@ -1,5 +1,5 @@
 # Git Stats 📊
-  ## 🛠 Tech Stack & Tools  
+  ## 🛠 Tech Stack & Tools are
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,next,python,flask,tailwind,aws,git,github,linux,swift,mongodb,mysql,docker,postgres&perline=9" />
 </p>
